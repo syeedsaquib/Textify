@@ -1,0 +1,12 @@
+.container {
+  width: 40%;
+}
+.preview {
+  width: 300px; /* Set the desired width for the text container */
+  word-wrap: break-word; /* Enable word wrapping */
+}
+.navbar-toggler navbar-toggler-icon{
+  color: rgb(228, 228, 228);
+
+}
+
